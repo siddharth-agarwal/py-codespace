@@ -4,4 +4,5 @@ numpy
 yfinance
 mgarch
 matplotlib
-
+statsmodels
+copulas
